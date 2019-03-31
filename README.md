@@ -1,17 +1,17 @@
 # Einstieg
 
 ## Programmier-Spiele auf den Tablets
-+ Lightbot: https://play.google.com/store/apps/details?id=com.lightbot.lightbot
++ __Lightbot: https://play.google.com/store/apps/details?id=com.lightbot.lightbot__
 + ScratchJr: https://play.google.com/store/apps/details?id=org.scratchjr.android
 + Coddy: https://play.google.com/store/apps/details?id=com.SimplyProjects.Coddy
 + Bloxels: https://play.google.com/store/apps/details?id=com.projectpixelpress.BloxelsBuilder
 + Spritebox: https://play.google.com/store/apps/details?id=com.spritebox.coding
 
 ## Links zu guten allerersten Programmier-Spiel-Webseiten
-+ https://code.org -- viele gute Kurz-Kurse
++ __https://code.org -- viele gute Kurz-Kurse__
   + https://code.org/minecraft -- mit Minecraft-Thema
   + https://code.org/hourofcode/overview -- eine Übersicht über alle Kurse des "Stunde des Codes"
-+ https://blockly-games.appspot.com/?lang=de -- verschiedene Spiele in der Sprache "Blockly"
++ __https://blockly-games.appspot.com/?lang=de -- verschiedene Spiele in der Sprache "Blockly"__
 + https://www.playcodemonkey.com/ -- programmiere einen Affen
   + https://www.playcodemonkey.com/blog/hour-of-code/coding-adventure/
 + https://codecombat.com/ -- mit Programmen durch ein Verlies
@@ -23,7 +23,7 @@
   + https://scratch.mit.edu/explore/projects/games/ -- Beispiele
 
 ## Für das fortgeschrittenere Programmieren in der Sprache "Lua"
-+ https://love2d.org/wiki/Main_Page -- der Spiele-Baukasten "love2d/LÖVE"
++ __https://love2d.org/wiki/Main_Page -- der Spiele-Baukasten "love2d/LÖVE"__
 + https://atom.io/ -- der Editor, den ich euch zum Anfangen empfehle
 
 ## Fortgeschrittene Themen, Links, Artikel, Programme

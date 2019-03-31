@@ -1,14 +1,14 @@
 # Einstieg
 
 ## Programmier-Spiele auf den Tablets
-+ __Lightbot: https://play.google.com/store/apps/details?id=com.lightbot.lightbot__
-+ ScratchJr: https://play.google.com/store/apps/details?id=org.scratchjr.android
-+ Coddy: https://play.google.com/store/apps/details?id=com.SimplyProjects.Coddy
-+ Bloxels: https://play.google.com/store/apps/details?id=com.projectpixelpress.BloxelsBuilder
-+ Spritebox: https://play.google.com/store/apps/details?id=com.spritebox.coding
++ [__Lightbot__](https://play.google.com/store/apps/details?id=com.lightbot.lightbot)
++ [ScratchJr](https://play.google.com/store/apps/details?id=org.scratchjr.android)
++ [Coddy](https://play.google.com/store/apps/details?id=com.SimplyProjects.Coddy)
++ [Bloxels](https://play.google.com/store/apps/details?id=com.projectpixelpress.BloxelsBuilder)
++ [Spritebox](https://play.google.com/store/apps/details?id=com.spritebox.coding)
 
 ## Links zu guten allerersten Programmier-Spiel-Webseiten
-+ __https://code.org -- viele gute Kurz-Kurse__
++ [__code.org__](https://code.org) -- viele gute Kurz-Kurse__
   + https://code.org/minecraft -- mit Minecraft-Thema
   + https://code.org/hourofcode/overview -- eine Übersicht über alle Kurse des "Stunde des Codes"
 + __https://blockly-games.appspot.com/?lang=de -- verschiedene Spiele in der Sprache "Blockly"__

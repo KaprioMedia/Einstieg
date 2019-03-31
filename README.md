@@ -18,7 +18,7 @@
 + https://www.tynker.com/dashboard/student/#/dashboard -- verschiedene Programmier-Spiele
 
 ## nächster Schritt: Programmiersprache "Scratch" ... eine Variante von "Blockly"
-+ https://scratch.mit.edu/
++ __https://scratch.mit.edu/__
   + http://scratched.gse.harvard.edu/guide/
   + https://scratch.mit.edu/explore/projects/games/ -- Beispiele
 

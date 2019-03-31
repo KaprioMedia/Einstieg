@@ -24,7 +24,7 @@
   + https://scratch.mit.edu/explore/projects/games/ -- Beispiele
 
 ## Für das fortgeschrittenere Programmieren in der Sprache "Lua"
-+ [__love2d/LÖVE__](https://love2d.org/wiki/Main_Page) -- der Spiele-Baukasten "love2d/LÖVE"__
++ [__love2d/LÖVE__](https://love2d.org/wiki/Main_Page) -- der Spiele-Baukasten "love2d/LÖVE"
 + https://atom.io/ -- der Editor, den ich euch zum Anfangen empfehle
 
 ## Fortgeschrittene Themen, Links, Artikel, Programme

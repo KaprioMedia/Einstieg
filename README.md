@@ -26,7 +26,6 @@
 ## Für das fortgeschrittenere Programmieren in der Sprache "Lua"
 + [__love2d/LÖVE__](https://love2d.org/wiki/Main_Page) -- der Spiele-Baukasten "love2d/LÖVE"
 + https://atom.io/ -- der Editor, den ich euch zum Anfangen empfehle
-  + [01: Hamsterball](https://github.com/KaprioMedia/01_Hamsterball)
 
 ## Fortgeschrittene Themen, Links, Artikel, Programme
 + Tiled -- Karten/Level-Editor: https://www.mapeditor.org/
